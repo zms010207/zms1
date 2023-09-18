@@ -1,0 +1,110 @@
+#css11{
+    width: 500px;
+    height: 400px;
+    border:3px gray solid;
+    background-color: #F4D9DF;
+    border-radius: 10%;
+}
+#css12{
+    width: 80%;
+    height: 80%;
+    background-color: #BD7E89;
+    margin: 40px auto;
+}
+#css21{
+    width: 500px;
+    height: 400px;
+    border:3px gray solid;
+    background-color: #E4E4E1;
+    border-radius: 10%;
+}
+#css22{
+    width: 80%;
+    height: 80%;
+    background-color: #9CA5B2;
+    margin: 40px auto;
+}
+#css23{
+    width: 100%;
+    height: 70%;
+    margin-top: 60px;
+    background-color: #8092A9;
+    float: left;    
+}
+#css31{
+    width: 500px;
+    height: 400px;
+    border:3px gray solid;
+    background-color: #FFFFFF;
+    border-radius: 10%;
+}
+#css32{
+    width: 80%;
+    height: 80%;
+    background-color: #FAEFFA;
+    margin: 40px auto;
+}
+#css33{
+    width: 20%;
+    height: 100%;
+    background-color: #E8F4D2;
+    float: left;
+}
+#css41{
+    width: 500px;
+    height: 400px;
+    border:3px gray solid;
+    background-color: #FAEFFA;
+    border-radius: 10%;
+}
+#css42{
+    width: 80%;
+    height: 80%;
+    background-color: #EAB0F8;
+    margin: 40px auto;
+}
+#css43{
+    width: 100%;
+    height: 70%;
+    background-color: #AFF3E1;
+    margin-top: 54px;
+    float: left;
+}
+#css44{
+    width: 25%;
+    height: 100%;
+    background-color: #F6FAF9;
+    float: left;
+}
+#css51{
+    width: 500px;
+    height: 400px;
+    border:3px gray solid;
+    background-color: #f2f2f2;
+    border-radius: 10%;
+}
+#css52{
+    width: 80%;
+    height: 80%;
+    background-color: #EBC0BD;
+    margin: 40px auto;
+}
+#css53{
+    width: 100%;
+    height: 72%;
+    background-color: #E7A690;
+    margin-top:60px;
+    float: left;
+}
+#css54{
+    width: 100%;
+    height: 80%;
+    background-color: #AC6474;
+    margin-top: 50px;
+}
+#css55{
+    width: 40%;
+    height: 100%;
+    background-color: #D8D4C6;
+    margin: opx auto;
+}
